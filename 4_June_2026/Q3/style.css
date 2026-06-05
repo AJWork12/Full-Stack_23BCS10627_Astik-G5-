@@ -1,0 +1,14 @@
+#suggestions {
+    list-style: none;
+    padding: 0;
+    width: 200px;
+}
+
+#suggestions li {
+    padding: 8px;
+    border: 1px solid gray;
+}
+
+.active {
+    background: lightblue;
+}
